@@ -63,7 +63,7 @@ var listPlanet = [
   DataPlanet(
       nama: "Jupiter",
       ciri: "Planet kelima dan plenet terbesar di Tata Surya",
-      imageLink:     "https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/things-fall-apart.jpg",
+      imageLink:    "https://akcdn.detik.net.id/community/media/visual/2022/08/25/ilustrasi-nama-planet-di-sistem-tata-surya-5.jpeg?w=700&q=90",
       diameter: 139.820,
       link: "https://id.wikipedia.org/wiki/Jupiter",
       deskripsi: "Jupiter atau Musytari, terkadang secara tidak baku disebut sebagai Yupiter, adalah planet terdekat kelima dari Matahari setelah Merkurius, Venus, Bumi, dan Mars.[11] Planet ini juga merupakan planet terbesar di Tata Surya.[12] Jupiter merupakan raksasa gas dengan massa seperseribu massa Matahari dan dua setengah kali jumlah massa semua planet lain di Tata Surya.",
@@ -73,7 +73,7 @@ var listPlanet = [
   DataPlanet(
       nama: "Saturnus",
       ciri: "Planet keenam dari Matahari dan merupakan planet terbesar kedua di Tata Surya setelah Jupiter",
-      imageLink:     "https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/things-fall-apart.jpg",
+      imageLink:    "https://asset.kompas.com/crops/WWCpDyBo9nCFurFc1HpK9tT4XuM=/418x0:1168x500/1200x800/data/photo/2022/06/24/62b5c0d98037b.jpg",
       diameter: 116.460,
       link: "https://id.wikipedia.org/wiki/Saturnus",
       deskripsi: "Saturnus adalah planet keenam dari Matahari dan merupakan planet terbesar kedua di Tata Surya setelah Jupiter. Saturnus juga merupakan sebuah raksasa gas yang memiliki perak rata-rata sekitar 9 kali radius rata-rata Bumi. Massa jenis rata-rata Saturnus hanya 1/8 massa jenis rata-rata Bumi, tetapi dengan volume yang lebih besar dari Bumi, massa Saturnus tercatat 95 kali massa Bumi",
@@ -83,7 +83,7 @@ var listPlanet = [
   DataPlanet(
       nama: "Uranus",
       ciri: "planet yang memiliki suhu terendah & terdingin",
-      imageLink:     "https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/things-fall-apart.jpg",
+      imageLink:     "https://awsimages.detik.net.id/community/media/visual/2020/11/18/ilustrasi-planet-uranus-1.jpeg?w=600&q=90",
       diameter: 50.724,
       link: "https://id.wikipedia.org/wiki/Uranus",
       deskripsi: "Planet Uranus merupakan planet yang berada pada urutan ketujuh pada sistem tata surya. Uranus memiliki cincin yang mengelilinginya, cincin Uranus melingkari planet tersebut secara vertikal dan ukurannya tidak sebesar cincin Saturnus. planet ini merupakan planet dengan suhu terdingin loh, yaitu sekitar -224° Celcius.",
@@ -95,7 +95,7 @@ var listPlanet = [
   DataPlanet(
       nama: "Neptunus",
       ciri: "Planet kedelapan dan terjauh dari Matahari",
-      imageLink:     "https://raw.githubusercontent.com/benoitvallon/100-best-books/master/static/images/things-fall-apart.jpg",
+      imageLink:     "https://asset.kompas.com/crops/u6Oj1Dw1Pq2-IIc7RoFmkmppzVY=/0x0:2188x1459/1200x800/data/photo/2023/08/02/64c9528b228b7.jpg",
       diameter: 49.224,
       link: "https://id.wikipedia.org/wiki/Neptunus",
       deskripsi: "Neptunus merupakan planet terjauh (kedelapan) jika ditinjau dari Matahari. Planet ini dinamai dari dewa lautan Romawi. Neptunus merupakan planet terbesar keempat berdasarkan diameter (49.530 km) dan terbesar ketiga berdasarkan massa. Massa Neptunus tercatat 17 kali lebih besar daripada Bumi, dan sedikit lebih kecil daripada Uranus.",
